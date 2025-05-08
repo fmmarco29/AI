@@ -15,6 +15,6 @@ Construiremos un chatbot que usa el modelo gratuito `gpt-3.5-turbo` de OpenAI (r
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu_usuario/AI.git
-cd AI/video01_gradio_chatbot
+git clone https://github.com/fmmarco29/AI.git
+cd AI/Video_01
 
