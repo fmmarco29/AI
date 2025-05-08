@@ -1,2 +1,2 @@
 # AI
-RAG AI Gradio Hugging Face LLMs
+RAG Gradio Hugging Face LLMs
