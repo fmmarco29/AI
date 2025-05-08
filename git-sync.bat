@@ -1,15 +1,15 @@
 @echo off
-REM Sincroniza repositorio con GitHub y crea backup ZIP excluyendo carpetas innecesarias
+REM Sincroniza repositorio con GitHub y crea un backup ZIP excluyendo carpetas innecesarias
 
 cd /d "%~dp0"
 
-echo --- Haciendo pull para traer cambios remotos...
+echo --- Haciendo pull desde GitHub...
 git pull origin main
 
 echo --- Añadiendo todos los cambios...
 git add -A
 
-REM Obtener fecha y hora para mensaje y backup
+REM Obtener fecha y hora para el mensaje del commit
 for /f %%a in ('wmic os get localdatetime ^| find "."') do set datetime=%%a
 set timestamp=%datetime:~0,4%-%datetime:~4,2%-%datetime:~6,2%_%datetime:~8,2%-%datetime:~10,2%
 set commitmsg=Auto commit %timestamp%
@@ -22,19 +22,19 @@ if not exist backups (
     mkdir backups
 )
 
-REM Crear backup excluyendo carpetas no deseadas
+REM Crear archivo ZIP excluyendo carpetas .git, venv, __pycache__
 echo --- Creando backup ZIP sin carpetas ignoradas...
+
+REM Comprimir todos los archivos excepto los directorios que no queremos
 powershell -Command ^
-$ExcludeDirs = @('.git', 'venv', '__pycache__', 'backups'); ^
-$Items = Get-ChildItem -Path "." -Recurse -File | Where-Object { ^
-    foreach ($ex in $ExcludeDirs) { if ($_.FullName -like "*\$ex\*") { return $false } } ^
-    return $true ^
-}; ^
-$Items | Compress-Archive -DestinationPath "backups\backup_%timestamp%.zip" -Force
+    $exclude = @('.git', 'venv', '__pycache__'); ^
+    $files = Get-ChildItem -Recurse | Where-Object { ^
+        $exclude -notcontains $_.Name -and $_.PSIsContainer -eq $false; ^
+    }; ^
+    $files | Compress-Archive -DestinationPath "backups\backup_%timestamp%.zip" -Force
 
 echo --- Subiendo a GitHub...
 git push origin main
 
 echo --- ¡Listo! Cambios subidos y backup limpio creado en la carpeta "backups".
 pause
-
