@@ -1,26 +1,28 @@
 @echo off
-REM Este script eliminará los archivos conflictivos y sincronizará el repositorio con GitHub.
+REM Este script sincroniza tu repositorio local con GitHub.
 
-REM Cambiar al directorio del proyecto
+REM Cambiar al directorio donde está el repositorio
 cd /d "%~dp0"
 
-REM --- Eliminar los archivos conflictivos ---
-echo --- Eliminando archivos conflictivos ---
-git rm git-sync.bat
-git rm .ipynb_checkpoints/RAG_con_PDF_o_Web-checkpoint.ipynb
-git rm "RAG_con_PDF_o_Web - copia.ipynb"
+REM --- Hacer pull desde GitHub para traer cambios remotos ---
+echo --- Haciendo pull desde GitHub...
+git pull origin main
 
-REM --- Agregar los cambios al staging ---
-echo --- Agregando cambios al staging ---
-git add .
+REM --- Añadir todos los archivos nuevos/modificados/eliminados ---
+echo --- Añadiendo cambios al repositorio...
+git add -A
 
-REM --- Hacer commit ---
-echo --- Realizando commit de las eliminaciones ---
-git commit -m "Eliminando archivos conflictivos"
+REM --- Hacer commit con un mensaje automático basado en la fecha y hora ---
+for /f %%a in ('wmic os get localdatetime ^| find "."') do set datetime=%%a
+set timestamp=%datetime:~0,4%-%datetime:~4,2%-%datetime:~6,2%_%datetime:~8,2%-%datetime:~10,2%
+set commitmsg=Auto commit %timestamp%
 
-REM --- Sincronizar con el repositorio remoto ---
-echo --- Sincronizando con el repositorio remoto ---
+echo --- Haciendo commit con mensaje: %commitmsg%
+git commit -m "%commitmsg%"
+
+REM --- Subir los cambios a GitHub ---
+echo --- Subiendo cambios a GitHub...
 git push origin main
 
-echo --- ¡Sincronización completada! ---
+echo --- ¡Listo! Los cambios han sido subidos correctamente.
 pause
