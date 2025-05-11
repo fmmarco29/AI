@@ -1,6 +1,6 @@
 title: Proyectos de IA - fmmarco29
 description: Aplicaciones de IA prácticas y desplegables
-theme: jekyll-theme-chirpy
+theme: simple
 markdown: kramdown
 plugins:
   - jekyll-feed
