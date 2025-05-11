@@ -1,20 +1,44 @@
-title: "Mi sitio con Cayman"
-description: "Un sitio web hermoso con Jekyll y el tema Cayman"
-baseurl: "" # Si tu sitio está en un subdirectorio, pon algo como "/blog"
-url: "https://www.misitio.com"  # Aquí va tu URL principal
+# Configuración básica
+title: "Mi Sitio de Proyectos de IA"
+description: "Explora mis notebooks de IA organizados por módulos de video"
+url: "https://www.misitio.com"  # Cambia esto con la URL de tu sitio
 
-# Configuración del tema Cayman
-theme: "jekyll-theme-cayman"
+# Si estás trabajando en local puedes dejar baseurl vacío, pero si usas subcarpetas, completa esta sección
+baseurl: "" 
 
-# Menú de navegación
-menu:
+# Tema que estás utilizando
+theme: jekyll-theme-cayman  # O cualquier tema que estés utilizando
+
+# Paginación (si tienes muchas entradas, controla el número de artículos por página)
+paginate: 10
+
+# Menú de navegación (esto es lo que verás en el header de tu sitio)
+navbar:
   - title: "Inicio"
-    url: "/"
-  - title: "Acerca de"
-    url: "/acerca"
-  - title: "Servicios"
-    url: "/servicios"
-  - title: "Contacto"
-    url: "/contacto"
+    url: "/"  # Este debería ser el valor correcto para tu página de inicio
+  - title: "Proyectos de IA"
+    url: "/proyectos-de-ia"  # Aquí es donde colocas la URL de la página que contiene los notebooks
+
+# Feed RSS (si quieres habilitar un feed RSS)
+feed:
+  path: "feed.xml"
+
+# Configuración para que Jekyll genere las páginas automáticamente a partir de los archivos .md
+defaults:
+  - scope:
+      path: ""  # Esto es para todas las páginas
+      type: "posts"
+    values:
+      layout: "post"  # Define el layout predeterminado para las publicaciones de blog
+
+# Agrega otros ajustes según tus necesidades (como el logo, enlaces a redes sociales, etc.)
+social:
+  twitter: "tu_usuario_de_twitter"
+  github: "tu_usuario_de_github"
+  linkedin: "tu_usuario_de_linkedin"
+
+# Otros ajustes avanzados que podrías usar según tus necesidades
+plugins:
+  - jekyll-feed
 
 
