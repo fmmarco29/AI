@@ -1,5 +1,5 @@
 ---
-title: "AI Projects by fmmarco29"
+title: "AI Projects con LLMs, Gradio, Langchain, Hugging Face"
 layout: default
 ---
 
@@ -19,7 +19,7 @@ Puedes ver el video explicativo aquí:
 
 O directamente aquí abajo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=t-1gu0EI_-o" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-1gu0EI_-o" 
 frameborder="0" allowfullscreen></iframe>
 
 ### 📹 Video 02
