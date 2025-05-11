@@ -1,8 +1,12 @@
-title: "Mi sitio Jekyll"
-description: "Descripción de mi sitio"
-baseurl: "" # Si usas un subdirectorio, coloca la URL aquí
-url: "https://www.misitio.com"  # Tu URL principal
+title: "Mi sitio con Cayman"
+description: "Un sitio web hermoso con Jekyll y el tema Cayman"
+baseurl: "" # Si tu sitio está en un subdirectorio, pon algo como "/blog"
+url: "https://www.misitio.com"  # Aquí va tu URL principal
 
+# Configuración del tema Cayman
+theme: "jekyll-theme-cayman"
+
+# Menú de navegación
 menu:
   - title: "Inicio"
     url: "/"
@@ -12,4 +16,5 @@ menu:
     url: "/servicios"
   - title: "Contacto"
     url: "/contacto"
+
 
