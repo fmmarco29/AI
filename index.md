@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Mi Web de Proyectos IA
+title: Mis Proyectos IA
 ---
 
-# Bienvenido
+# 👨‍💻 Bienvenido a mi colección de proyectos IA
 
-Aquí iré subiendo proyectos de IA usando Gradio, LangChain y más.
+## 📂 Proyectos
+- [RAG con PDF](./proyectos/rag_pdf/)
+- [Chatbot con Gradio](./proyectos/chatbot_gradio/)
+
+## 📒 Notebooks
+- [Deploy a Hugging Face](./notebooks/deploy_hf.ipynb)
