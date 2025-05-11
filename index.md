@@ -2,6 +2,7 @@
 title: "AI Projects con LLMs, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
 ---
+[🏠 Inicio](index.md) | [👤 Sobre mí](about.md)
 
 # 🎥 Proyectos de IA por Video
 
@@ -38,5 +39,5 @@ frameborder="0" allowfullscreen></iframe>
 
 ---
 
-[🧑‍💻 Sobre mí](about.md)                                                                                   
+                                    
 📬 Contacto: fmmarco29@hotmail.com 
