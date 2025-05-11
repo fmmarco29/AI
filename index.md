@@ -1,13 +1,43 @@
 ---
 layout: default
-title: Mis Proyectos IA
+title: Proyectos de IA - fmmarco29
 ---
 
-# 👨‍💻 Bienvenido a mi colección de proyectos IA
+# 🤖 Proyectos de Inteligencia Artificial
 
-## 📂 Proyectos
-- [RAG con PDF](./proyectos/rag_pdf/)
-- [Chatbot con Gradio](./proyectos/chatbot_gradio/)
+Bienvenido a mi colección de proyectos prácticos en inteligencia artificial. Aquí encontrarás aplicaciones reales usando modelos de lenguaje, Gradio, LangChain y despliegues en Hugging Face.
 
-## 📒 Notebooks
-- [Deploy a Hugging Face](./notebooks/deploy_hf.ipynb)
+---
+
+## 📂 Aplicaciones / Proyectos
+
+- [🔍 RAG con PDF](./proyectos/rag_pdf/)
+- [💬 Chatbot con Gradio](./proyectos/chatbot_gradio/)
+- [📁 Explorador de documentos](./proyectos/explorador_docs/)
+- [🧠 Mini agente con memoria](./proyectos/agente_memoria/)
+
+---
+
+## 📒 Notebooks / Tutoriales
+
+- [📦 Deploy a Hugging Face Spaces (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/deploy_hf.ipynb)
+- [🛠 Cómo construir un RAG (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/rag_demo.ipynb)
+
+---
+
+## 🧰 Utilidades
+
+- [📜 requirements.txt](./requirements.txt)
+- [🧾 README general del repo](./README.md)
+
+---
+
+## 🌐 Sobre mí
+
+Me llamo **fmmarco29**. Aquí comparto herramientas y prototipos de IA diseñados para producción.  
+🔗 [GitHub](https://github.com/fmmarco29)  
+📬 Contacto: tu_email@ejemplo.com
+
+---
+
+🚀 Sitio generado automáticamente con **Jekyll + GitHub Pages**
