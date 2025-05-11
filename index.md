@@ -3,36 +3,30 @@ title: "AI Projects by fmmarco29"
 layout: default
 ---
 
-# 🤖 Proyectos de IA
+# 🎥 Proyectos de IA por Video
 
-Bienvenido/a a mi colección de notebooks y recursos sobre inteligencia artificial. Este sitio agrupa herramientas prácticas y prototipos pensados para uso real.
+Una colección de notebooks educativos organizados por módulos de video.
 
----
+## Notebooks disponibles
 
-## 📒 Notebooks / Tutoriales
+### 📹 Video 01
+- [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
-- 📦 [Deploy a Hugging Face Spaces](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/deploy_hf.ipynb)  
-  Aprende a desplegar un modelo en Hugging Face Spaces con Gradio.
+### 📹 Video 02
+- [RAG con PDF o Web](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
 
-- 🛠 [Cómo construir un RAG](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/rag_demo.ipynb)  
-  Un sistema básico de Retrieval-Augmented Generation (RAG) con tus propios documentos.
+### 📹 Video 03
+- [Deploy a Hugging Face](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
 
----
-
-## 🧰 Utilidades
-
-- 📜 [`requirements.txt`](https://github.com/fmmarco29/AI/blob/main/requirements.txt) — dependencias necesarias.  
-- 🧾 [`README.md`](https://github.com/fmmarco29/AI#readme) — descripción general del repositorio.
-
----
-
-## 🌐 Sobre mí
-
-Soy **fmmarco29**, comparto herramientas y prototipos de IA pensados para producción.
-
-- 🔗 [Mi perfil de GitHub](https://github.com/fmmarco29)
-- 📬 Contacto: tu_email@ejemplo.com
+### 📹 Video 04–10
+- [Notebook 4](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb)
+- [Notebook 5](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb)
+- [Notebook 6](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb)
+- [Notebook 8](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb)
+- [Notebook 9](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb)
+- [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
 
-<p align="center"><em>🚀 Sitio generado automáticamente con Jekyll + GitHub Pages</em></p>
+📬 Contacto: tu_email@ejemplo.com  
+🔗 [GitHub](https://github.com/fmmarco29)
