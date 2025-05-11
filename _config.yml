@@ -1,15 +1,11 @@
+menu:
 title: Proyectos de IA - fmmarco29
 description: Aplicaciones de IA prácticas y desplegables
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-menu:
-  - title: "Inicio"
-    url: "/"
-  - title: "Acerca de"
+title: "Acerca de"
     url: "/acerca"
-  - title: "Contacto"
-    url: "/contacto"
 
 
