@@ -12,7 +12,7 @@ Una colección de notebooks educativos organizados por módulos de video.
 ### 📹 Video 01
 - [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
-## 🎬 Tutorial en Video
+## 🎬 Video interesante
 
 Puedes ver el video explicativo aquí:  
 [🔗 Ver en YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
