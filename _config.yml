@@ -5,9 +5,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-# Variables personalizadas (requieren CSS personalizado)
 theme_color:
   primary: '#3498db'
   secondary: '#f1c40f'
 
 font_family: "'Open Sans', sans-serif"
+
