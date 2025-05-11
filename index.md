@@ -11,7 +11,7 @@ Este sitio presenta una serie de notebooks de IA organizados por módulos de vid
 ## Notebooks disponibles:
 
 ### Video 01
-- [Notebook 1](https://github.com/fmmarco29/AI/blob/Video_01/video01_Gradio_chatbot.ipynb)
+- [Notebook 1](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
 ### Video 02
 - [Notebook 2](Video_02/notebook2.ipynb)
