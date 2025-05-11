@@ -1,6 +1,6 @@
 title: AI Projects by fmmarco29
 description: Proyectos prácticos con modelos de lenguaje y más
-theme: jekyll-theme-modernist
+theme: minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
