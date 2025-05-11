@@ -36,7 +36,7 @@ Bienvenido a mi colección de proyectos prácticos en inteligencia artificial. A
 
 Me llamo **fmmarco29**. Aquí comparto herramientas y prototipos de IA diseñados para producción.  
 🔗 [GitHub](https://github.com/fmmarco29)  
-📬 Contacto: tu_email@ejemplo.com
+📬 Contacto: fmmarco29@hotmail.com
 
 ---
 
