@@ -2,11 +2,11 @@
 title: "AI Projects con LLMs, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
 ---
-<div style="background-color:#f5f5f5; padding: 10px 0; border-bottom: 1px solid #ccc; text-align: center; font-family: sans-serif;">
-  <a href="index.md" style="margin: 0 15px; text-decoration: none; color: #0366d6; font-weight: bold;">🏠 Inicio</a>
-  <a href="about.md" style="margin: 0 15px; text-decoration: none; color: #0366d6; font-weight: bold;">👤 Sobre mí</a>
-  <a href="https://github.com/fmmarco29/AI" style="margin: 0 15px; text-decoration: none; color: #0366d6; font-weight: bold;">📦 GitHub</a>
-  <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 15px; text-decoration: none; color: #0366d6; font-weight: bold;">📬 Contacto</a>
+<div style="background-color:#f5f5f5; padding: 10px 0; border-bottom: 1px solid #ccc; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px;">
+  <a href="index.md" style="margin: 0 20px; text-decoration: none; color: #0366d6;">🏠 Inicio</a>
+  <a href="about.md" style="margin: 0 20px; text-decoration: none; color: #0366d6;">👤 Sobre mí</a>
+  <a href="https://github.com/fmmarco29/AI" style="margin: 0 20px; text-decoration: none; color: #0366d6;">📦 GitHub</a>
+  <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 20px; text-decoration: none; color: #0366d6;">📬 Contacto</a>
 </div>
 # 🎥 Proyectos de IA por Video
 
