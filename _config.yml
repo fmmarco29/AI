@@ -4,8 +4,6 @@ theme: jekyll-theme-cayman
 theme_color:
   primary:'#3498db'
   secondary:'#f1c40f'
-baseurl: ""
-url: "https://fmmarco29.github.io"  
 font-family: "Open Sans", sans-serif
 markdown: kramdown
 plugins:
