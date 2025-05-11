@@ -1,6 +1,7 @@
 ---
 title: "AI Projects con LLMs, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
+<img src="/assets/img/foto.jpg" alt="Descripción" style="width:300px; border-radius: 8px;" />
 ---
 
 <div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
