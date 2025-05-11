@@ -1,5 +1,5 @@
 ---
-title: AI
+title: # AI
 ---
 
 <link rel="stylesheet" href="custom.css">
@@ -9,31 +9,22 @@ title: AI
 Este sitio presenta una serie de notebooks de IA organizados por módulos de video. Puedes explorar cada uno de ellos a continuación:
 
 ## Notebooks disponibles:
-
 ### Video 01
 - [Gradio_chatbot](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb) 
-
 ### Video 02
 - [RAG_con_PDF_o_Web](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
-
 ### Video 03
 - [Deploy_Hugging](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
-
 ### Video 04
 - [Notebook 4](Video_04/notebook4.ipynb)
-
 ### Video 05
 - [Notebook 5](Video_05/notebook5.ipynb)
-
 ### Video 06
 - [Notebook 6](Video_06/notebook6.ipynb)
-
 ### Video 08
 - [Notebook 7](Video_08/notebook7.ipynb)
-
 ### Video 09
 - [Notebook 8](Video_09/notebook8.ipynb)
-
 ### Video 10
 - [Notebook 9](Video_10/notebook9.ipynb)
 
