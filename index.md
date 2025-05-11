@@ -10,9 +10,7 @@ layout: default
   <a href="https://github.com/fmmarco29/AI" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> GitHub</a>
   <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> Contacto</a>
 </div>
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/fmmarco29/AI/main/assets/img/im1.jpeg" style="max-width: 80%; border-radius: 12px;" />
-</div>
+								!(/assets/img/im1.jpeg)
 # 🎥 Proyectos de IA por Video
 
 Una colección de notebooks educativos organizados por módulos de video.
