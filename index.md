@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: AI
 ---
 
 <link rel="stylesheet" href="custom.css">
@@ -11,7 +11,7 @@ Este sitio presenta una serie de notebooks de IA organizados por módulos de vid
 ## Notebooks disponibles:
 
 ### Video 01
-- [Notebook 1](Video_01/notebook1.ipynb)
+- [Notebook 1](Video_01/video01_Gradio_chatbot.ipynb)
 
 ### Video 02
 - [Notebook 2](Video_02/notebook2.ipynb)
