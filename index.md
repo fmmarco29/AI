@@ -12,7 +12,7 @@ layout: default
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/im1.jpeg" style="max-width: 80%; border-radius: 12px;" />
+  <img src="assets/img/im1.jpeg" style="max-width: 50%; border-radius: 12px;" />
 </div>
 								
 # 🎥 Proyectos de IA por Video
