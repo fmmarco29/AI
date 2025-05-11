@@ -11,13 +11,13 @@ Este sitio presenta una serie de notebooks de IA organizados por módulos de vid
 ## Notebooks disponibles:
 
 ### Video 01
-- [Notebook 1](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/video01_Gradio_chatbot.ipynb) 
+- [Notebook 1](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb) 
 
 ### Video 02
-- [Notebook 2](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/mainVideo_02/RAG_con_PDF_o_Web.ipynb)
+- [Notebook 2](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
 
 ### Video 03
-- [Notebook 3](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/mainVideo_03/Deploy_Hugging.ipynb)
+- [Notebook 3](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
 
 ### Video 04
 - [Notebook 4](Video_04/notebook4.ipynb)
