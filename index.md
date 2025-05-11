@@ -11,7 +11,8 @@ layout: default
   <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> Contacto</a>
 </div>
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/assets/img/im1.jpg" alt="Descripción de la imagen" style="max-width: 80%; border-radius: 12px;" />
+  <img src="/assets/img/im1.jpg" style="max-width: 80%; border-radius: 12px;" />
+</div>
 </div>
 # 🎥 Proyectos de IA por Video
 
