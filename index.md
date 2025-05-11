@@ -28,5 +28,5 @@ Una colección de notebooks educativos organizados por módulos de video.
 
 ---
 
-📬 Contacto: tu_email@ejemplo.com  
+📬 Contacto: fmmarco29@hotmail.com  
 🔗 [GitHub](https://github.com/fmmarco29)
