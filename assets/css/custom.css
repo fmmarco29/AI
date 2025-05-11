@@ -1,9 +1,8 @@
 :root {
-  --primary-color: #e74c3c;     /* rojo */
+  --primary-color: #e74c3c;
   --secondary-color: #f1c40f;
   --font-family: 'Open Sans', sans-serif;
 }
-
 
 body {
   font-family: var(--font-family);
@@ -12,9 +11,7 @@ body {
   color: #333;
 }
 
-header,
-footer,
-h1, h2, h3 {
+h1, h2, h3, header, footer {
   color: var(--primary-color);
 }
 
