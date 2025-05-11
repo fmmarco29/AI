@@ -1,5 +1,18 @@
 title: AI Projects by fmmarco29
 description: Proyectos prácticos con modelos de lenguaje y más
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
 author: fmmarco29
 markdown: kramdown
+
+# Navegación personalizada
+nav:
+  - title: Inicio
+    url: /
+  - title: Sobre mí
+    url: /about
+
