@@ -4,3 +4,12 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+menu:
+  - title: "Inicio"
+    url: "/"
+  - title: "Acerca de"
+    url: "/acerca"
+  - title: "Contacto"
+    url: "/contacto"
+
+
