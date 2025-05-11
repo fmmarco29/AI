@@ -1,3 +1,5 @@
-title: "Proyectos de IA"
-description: "Colección de notebooks de inteligencia artificial"
+title: AI Projects by fmmarco29
+description: Proyectos prácticos con modelos de lenguaje y más
 theme: jekyll-theme-cayman
+author: fmmarco29
+markdown: kramdown
