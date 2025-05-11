@@ -1,5 +1,6 @@
-title: AI Projects by fmmarco29
-description: Proyectos prácticos con modelos de lenguaje y más
-theme: jekyll-theme-cayman
-author: fmmarco29
+title: Proyectos de IA - fmmarco29
+description: Aplicaciones de IA prácticas y desplegables
+theme: minima
 markdown: kramdown
+plugins:
+  - jekyll-feed
