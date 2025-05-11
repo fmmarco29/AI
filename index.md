@@ -20,7 +20,7 @@ Bienvenido a mi colección de proyectos prácticos en inteligencia artificial. A
 
 ## 📒 Notebooks / Tutoriales
 
-- [📦 Deploy a Hugging Face Spaces (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/Video_03/Deploy_Hugging.ipynb)
+- [📦 Deploy Deploy a Hugging Face Spaces (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/Video_03/Deploy_Hugging.ipynb)
 - [🛠 Cómo construir un RAG (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/rag_demo.ipynb)
 
 ---
