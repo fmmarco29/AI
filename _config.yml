@@ -1,17 +1,3 @@
-title: "Mi Sitio de Proyectos de IA"
-description: "Explora mis notebooks de IA organizados por módulos de video"
-url: "https://www.misitio.com"  # Cambia esto por la URL de tu sitio o deja vacío si trabajas en local
-
-# Tema utilizado
+title: "Proyectos de IA"
+description: "Colección de notebooks de inteligencia artificial"
 theme: jekyll-theme-cayman
-
-# Menú de navegación
-navbar:
-  - title: "Inicio"
-    url: "/"
-  - title: "Proyectos de IA"
-    url: "/proyectos-de-ia"
-
-# Feed RSS (opcional)
-feed:
-  path: "feed.xml"
