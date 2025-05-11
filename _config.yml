@@ -1,10 +1,13 @@
 title: Proyectos de IA - fmmarco29
 description: Aplicaciones de IA prácticas y desplegables
 theme: jekyll-theme-cayman
-theme_color:
-  primary:'#3498db'
-  secondary:'#f1c40f'
-font-family: "Open Sans", sans-serif
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+# Variables personalizadas (requieren CSS personalizado)
+theme_color:
+  primary: '#3498db'
+  secondary: '#f1c40f'
+
+font_family: "'Open Sans', sans-serif"
