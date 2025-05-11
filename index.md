@@ -1,43 +1,38 @@
 ---
+title: "AI Projects by fmmarco29"
 layout: default
-title: Proyectos de IA - fmmarco29
 ---
 
-# 🤖 Proyectos de Inteligencia Artificial
+# 🤖 Proyectos de IA
 
-Bienvenido a mi colección de proyectos prácticos en inteligencia artificial. Aquí encontrarás aplicaciones reales usando modelos de lenguaje, Gradio, LangChain y despliegues en Hugging Face.
-
----
-
-## 📂 Aplicaciones / Proyectos
-
-- [🔍 RAG con PDF](./proyectos/rag_pdf/)
-- [💬 Chatbot con Gradio](./proyectos/chatbot_gradio/)
-- [📁 Explorador de documentos](./proyectos/explorador_docs/)
-- [🧠 Mini agente con memoria](./proyectos/agente_memoria/)
+Bienvenido/a a mi colección de notebooks y recursos sobre inteligencia artificial. Este sitio agrupa herramientas prácticas y prototipos pensados para uso real.
 
 ---
 
 ## 📒 Notebooks / Tutoriales
 
-- [📦 Deploy a Hugging Face Spaces (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/deploy_hf.ipynb)
-- [🛠 Cómo construir un RAG (Notebook)](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/rag_demo.ipynb)
+- 📦 [Deploy a Hugging Face Spaces](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/deploy_hf.ipynb)  
+  Aprende a desplegar un modelo en Hugging Face Spaces con Gradio.
+
+- 🛠 [Cómo construir un RAG](https://nbviewer.org/github/fmmarco29/AI/blob/main/notebooks/rag_demo.ipynb)  
+  Un sistema básico de Retrieval-Augmented Generation (RAG) con tus propios documentos.
 
 ---
 
 ## 🧰 Utilidades
 
-- [📜 requirements.txt](./requirements.txt)
-- [🧾 README general del repo](./README.md)
+- 📜 [`requirements.txt`](https://github.com/fmmarco29/AI/blob/main/requirements.txt) — dependencias necesarias.  
+- 🧾 [`README.md`](https://github.com/fmmarco29/AI#readme) — descripción general del repositorio.
 
 ---
 
 ## 🌐 Sobre mí
 
-Me llamo **fmmarco29**. Aquí comparto herramientas y prototipos de IA diseñados para producción.  
-🔗 [GitHub](https://github.com/fmmarco29)  
-📬 Contacto: tu_email@ejemplo.com
+Soy **fmmarco29**, comparto herramientas y prototipos de IA pensados para producción.
+
+- 🔗 [Mi perfil de GitHub](https://github.com/fmmarco29)
+- 📬 Contacto: tu_email@ejemplo.com
 
 ---
 
-🚀 Sitio generado automáticamente con **Jekyll + GitHub Pages**
+<p align="center"><em>🚀 Sitio generado automáticamente con Jekyll + GitHub Pages</em></p>

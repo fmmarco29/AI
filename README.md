@@ -1,20 +1,25 @@
-# AI
-RAG Gradio Hugging Face LLMs
+# 🤖 AI Projects by fmmarco29
 
-# 💬 Video 1 - Chatbot con Gradio y GPT-3.5
+Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
 
-Este proyecto es parte de una serie educativa sobre aplicaciones de IA con Python y Gradio.
+## 📒 Notebooks / Tutoriales
 
-Construiremos un chatbot que usa el modelo gratuito `gpt-3.5-turbo` de OpenAI (requiere cuenta y API key).
+- 📦 [Deploy a Hugging Face Spaces](notebooks/deploy_hf.ipynb)  
+- 🛠 [Cómo construir un RAG](notebooks/rag_demo.ipynb)
 
-> ⚠️ **Advertencia**: No subas tu archivo `.env` ni tu clave API a ningún repositorio. Mantén esa información privada.
+> Si prefieres una versión navegable, visita:  
+> 🌐 **https://fmmarco29.github.io/AI/**
+
+## 🧰 Otros archivos
+
+- [`requirements.txt`](requirements.txt) — librerías necesarias.  
+- [`index.md`](index.md) — contenido del sitio Jekyll.  
+
+## 📬 Sobre mí
+
+Soy **fmmarco29**. Comparto herramientas y demostraciones útiles para IA en producción.  
+🔗 [GitHub](https://github.com/fmmarco29)
 
 ---
 
-## 🚀 Cómo usar
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/fmmarco29/AI.git
-cd AI/Video_01
-
+⚙️ Este proyecto está generado automáticamente con **Jekyll + GitHub Pages**
