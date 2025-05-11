@@ -15,11 +15,11 @@ Una colección de notebooks educativos organizados por módulos de video.
 ## 🎬 Tutorial en Video
 
 Puedes ver el video explicativo aquí:  
-[🔗 Ver en YouTube](https://www.youtube.com/watch?v=uW6H16RJog4)
+[🔗 Ver en YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
 
 O directamente aquí abajo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uW6H16RJog4" 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=t-1gu0EI_-o" 
 frameborder="0" allowfullscreen></iframe>
 
 ### 📹 Video 02
