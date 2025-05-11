@@ -1,44 +1,35 @@
-# Configuración básica
-title: "Mi Sitio de Proyectos de IA"
-description: "Explora mis notebooks de IA organizados por módulos de video"
-url: "https://www.misitio.com"  # Cambia esto con la URL de tu sitio
+---
+title: "Proyectos de IA"
+layout: default
+---
+# Proyectos de IA
 
-# Si estás trabajando en local puedes dejar baseurl vacío, pero si usas subcarpetas, completa esta sección
-baseurl: "" 
+Este sitio presenta una serie de notebooks de IA organizados por módulos de video. Puedes explorar cada uno de ellos a continuación:
 
-# Tema que estás utilizando
-theme: jekyll-theme-cayman  # O cualquier tema que estés utilizando
+## Notebooks disponibles:
+### Video 01
+- [Gradio_chatbot](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
-# Paginación (si tienes muchas entradas, controla el número de artículos por página)
-paginate: 10
+### Video 02
+- [RAG_con_PDF_o_Web](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
 
-# Menú de navegación (esto es lo que verás en el header de tu sitio)
-navbar:
-  - title: "Inicio"
-    url: "/"  # Este debería ser el valor correcto para tu página de inicio
-  - title: "Proyectos de IA"
-    url: "/proyectos-de-ia"  # Aquí es donde colocas la URL de la página que contiene los notebooks
+### Video 03
+- [Deploy_Hugging](https://nbviewer.jupyter.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
 
-# Feed RSS (si quieres habilitar un feed RSS)
-feed:
-  path: "feed.xml"
+### Video 04
+- [Notebook 4](Video_04/notebook4.ipynb)
 
-# Configuración para que Jekyll genere las páginas automáticamente a partir de los archivos .md
-defaults:
-  - scope:
-      path: ""  # Esto es para todas las páginas
-      type: "posts"
-    values:
-      layout: "post"  # Define el layout predeterminado para las publicaciones de blog
+### Video 05
+- [Notebook 5](Video_05/notebook5.ipynb)
 
-# Agrega otros ajustes según tus necesidades (como el logo, enlaces a redes sociales, etc.)
-social:
-  twitter: "tu_usuario_de_twitter"
-  github: "tu_usuario_de_github"
-  linkedin: "tu_usuario_de_linkedin"
+### Video 06
+- [Notebook 6](Video_06/notebook6.ipynb)
 
-# Otros ajustes avanzados que podrías usar según tus necesidades
-plugins:
-  - jekyll-feed
+### Video 08
+- [Notebook 7](Video_08/notebook7.ipynb)
 
+### Video 09
+- [Notebook 8](Video_09/notebook8.ipynb)
 
+### Video 10
+- [Notebook 9](Video_10/notebook9.ipynb)
