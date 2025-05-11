@@ -1,8 +1,9 @@
 :root {
-  --primary-color: #3498db;
+  --primary-color: #e74c3c;     /* rojo */
   --secondary-color: #f1c40f;
   --font-family: 'Open Sans', sans-serif;
 }
+
 
 body {
   font-family: var(--font-family);
