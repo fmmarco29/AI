@@ -7,8 +7,7 @@ layout: default
 </div>
 
 <div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="https://github.com/fmmarco29/AI/blob/main/index.md" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> Inicio</a>
-  <a href="https://github.com/fmmarco29/AI/blob/main/about.md" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> Sobre mí</a>
+  <a href="https://github.com/fmmarco29/AI/blob/main/about.md" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> About</a>
   <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;"> Contacto</a>
 </div>
 
