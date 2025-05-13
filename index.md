@@ -1,5 +1,5 @@
 ---
-title: "AI Projects con LLMs, Gradio, Langchain, Chroma, Hugging Face"
+title: "AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Sobre mí
+title: Sobre nosotros
 layout: default
 ---
 
