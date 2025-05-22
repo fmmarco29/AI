@@ -12,6 +12,7 @@ layout: default
   <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
 </div>
 
+<div style="text-align: justify;>
 
 # "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
@@ -47,3 +48,4 @@ The scene from Interstellar serves as a powerful reminder of the potential for h
 
 *Palabras clave:* Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
 
+</div>
