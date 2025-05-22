@@ -5,15 +5,13 @@
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
 
-<<<<<<< HEAD
 <div style="text-align: center; margin: 30px 0;">
   <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
 </div>
 
-*Título:* "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 =======
+
 # *Título:* "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
->>>>>>> b4b45395715cd4518f21b7e888ff75ffdb940ab3
 
 ## *Introducción:*
 
