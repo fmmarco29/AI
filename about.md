@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
+  <img src="assets/img/foto_cooper.jpeg" style="max-width: 40%;" />
 </div>
 
 <div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
