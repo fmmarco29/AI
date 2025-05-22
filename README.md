@@ -11,6 +11,8 @@ Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos 
 
 =======
 
+<div style="background-color: white; padding: 12px 0; text-align: justify; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
+
 # *Título:* "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
 ## *Introducción:*
@@ -44,6 +46,8 @@ The scene from Interstellar serves as a powerful reminder of the potential for h
 *Imagen de portada:* Una imagen de la escena de acoplamiento de la película Interstellar sería ideal para esta entrada de blog.
 
 *Palabras clave:* Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
+
+</div>
 
 ---
 
