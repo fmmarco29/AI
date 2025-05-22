@@ -1,11 +1,9 @@
-title: AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face
+title: AI Projects by fmmarco29
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
-# Enlace al CSS personalizado
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
-      css: "/assets/css/custom.css"
+author: fmmarco29
+markdown: kramdown

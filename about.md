@@ -14,49 +14,14 @@ layout: default
   <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Contacto</a>
 </div>
 
-# 🎥 Proyectos de IA por Video
+<div style="text-align: justify;">
 
-Una colección de notebooks educativos organizados por módulos de video.
+# Sobre mí
 
-## Notebooks disponibles
+Soy Fernando Martínez Marco y este es un espacio donde comparto mis prototipos de inteligencia artificial, especialmente centrados en modelos de lenguaje grandes (LLMs), sistemas de recuperación aumentada (RAG), herramientas como Gradio y Langchain, y despliegue de proyectos reales en Hugging Face.
 
-### 📹 Video 01
-- [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
+Me gusta enseñar desde la práctica: todo lo que verás aquí tiene un enfoque directo, aplicable y documentado con video.
 
-## 🎬 Video interesante
+Además… soy fan de **Interstellar** 🚀.
 
-Puedes ver el video explicativo aquí:  
-[🔗 Ver en YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
-
-O directamente aquí abajo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t-1gu0EI_-o" frameborder="0" allowfullscreen></iframe>
-
-### 📹 Video 02
-- [RAG con PDF o Web](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
-
-### 📹 Video 03
-- [Deploy a Hugging Face](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
-
-### 📹 Video 04–10
-- [Notebook 4](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb)
-- [Notebook 5](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb)
-- [Notebook 6](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb)
-- [Notebook 8](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb)
-- [Notebook 9](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb)
-- [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
-
----
-## 🌐 Aplicación destacada: Traductor C1
-
-🚀 Prueba mi aplicación de traducción avanzada español → inglés, usando inteligencia artificial:
-
-👉 [Ir a la app en Hugging Face](https://huggingface.co/spaces/fmcsihe2929/FernandoMartinezMarco_C1-Translator-ES-EN)
-
----
-
-🎯 Transformaciones gramaticales, comparaciones entre niveles B2 y C1, y uso de modelos de OpenAI, Anthropic y Meta. ¡Totalmente interactiva!
-
----
-
-Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+</div>

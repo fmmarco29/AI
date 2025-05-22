@@ -14,6 +14,23 @@ layout: default
   <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Contacto</a>
 </div>
 
+<h1>Bienvenido a AI Projects</h1>
+
+  <p>
+    Este sitio reúne una colección de proyectos prácticos y educativos en inteligencia artificial
+    utilizando modelos de lenguaje, Gradio, Langchain, Hugging Face y más.
+  </p>
+
+  <p>
+    Cada notebook está diseñado para mostrar aplicaciones reales y herramientas útiles para desarrolladores y entusiastas de la IA.
+  </p>
+
+  <p>
+    Navega por las secciones para ver ejemplos, vídeos y prototipos interactivos.
+  </p>
+</div>
+
+
 # 🎥 Proyectos de IA por Video
 
 Una colección de notebooks educativos organizados por módulos de video.
@@ -47,6 +64,7 @@ O directamente aquí abajo:
 - [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
+
 ## 🌐 Aplicación destacada: Traductor C1
 
 🚀 Prueba mi aplicación de traducción avanzada español → inglés, usando inteligencia artificial:
@@ -61,4 +79,4 @@ O directamente aquí abajo:
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
 
----
+</div>
