@@ -1,9 +1,0 @@
-title: AI Projects by fmmarco29
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-
-author: fmmarco29
-markdown: kramdown

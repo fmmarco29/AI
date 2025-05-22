@@ -1,7 +1,4 @@
 ---
-el README.md, que lo puedes mejorar todo lo que quieras, ademas como puedes ver soy fan de interesestellar
-
----
 title: "AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
 ---
