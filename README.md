@@ -2,7 +2,12 @@
   <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
 </div>
 
+
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
+</div>
 
 *Título:* "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
