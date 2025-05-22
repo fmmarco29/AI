@@ -1,0 +1,63 @@
+body {
+  text-align: justify;
+}
+
+/* Navbar personalizada */
+.custom-navbar {
+  background-color: white;
+  padding: 12px 0;
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 20px;
+}
+
+.custom-navbar a {
+  margin: 0 25px;
+  text-decoration: none;
+  color: #1abc9c;
+}
+
+.centered-image {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.centered-image img {
+  max-width: 40%;
+}
+
+/* === Modo Interstellar === */
+.interstellar-mode body {
+  background-color: #0b0c10;
+  color: #c5c6c7;
+}
+
+.interstellar-mode .custom-navbar {
+  background-color: #1f2833;
+  border-bottom: 1px solid #45a29e;
+}
+
+.interstellar-mode .custom-navbar a {
+  color: #66fcf1;
+}
+
+.interstellar-mode h1,
+.interstellar-mode h2,
+.interstellar-mode h3,
+.interstellar-mode h4 {
+  color: #66fcf1;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.interstellar-mode a {
+  color: #45a29e;
+}
+
+.interstellar-mode .centered-image img {
+  filter: brightness(85%) contrast(120%);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');

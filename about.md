@@ -1,48 +1,45 @@
 ---
-title: "Brains Behind the Code: Why We Need AI"
+title: "AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
+interstellar: true
 ---
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/foto_cooper.jpeg" style="max-width: 40%;" />
+<div class="centered-image">
+  <img src="assets/img/im1.jpeg" />
 </div>
 
-<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
+<div class="custom-navbar">
+  <a href="/AI/index.html">Inicio</a>
+  <a href="/AI/about.html">Sobre nosotros</a>
+  <a href="/AI/README.html">README</a>
+  <a href="mailto:fmmarco29@hotmail.com">Contacto</a>
 </div>
 
+# 👤 Sobre Nosotros
 
-# "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
+Este proyecto surge de la pasión por enseñar inteligencia artificial aplicada de forma práctica. Aquí encontrarás **prototipos funcionales**, notebooks educativos y herramientas de NLP enfocadas en soluciones reales.
 
-## *Introducción:*
+## 🧠 ¿Qué tecnologías usamos?
 
-In the critically acclaimed film Interstellar, astronaut Cooper and his trusty robot TARS face a daunting challenge: docking their spacecraft with the Ranger, a ship spinning out of control. As Cooper expertly navigates the maneuver, he utters a simple yet profound command: "TARS, can you match the rotation?" This moment encapsulates the essence of human-AI collaboration, where precision, trust, and real-time decision-making are paramount.
+- Modelos de lenguaje grandes (LLMs) como GPT, Claude y LLaMA.
+- Gradio para construir interfaces amigables.
+- LangChain y Chroma para crear agentes RAG (Retrieve-and-Generate).
+- Hugging Face Spaces para compartir apps directamente.
 
-## *The Art of Synchronization:*
+## 🌍 ¿Por qué lo hacemos?
 
-The scene from Interstellar highlights the importance of synchronization in high-stakes situations. Cooper and TARS's seamless interaction demonstrates how humans and AI can work together to achieve a common goal. By matching the rotation of the Ranger, TARS enables Cooper to dock the spacecraft safely, showcasing the power of collaborative problem-solving.
+Queremos acercar la IA a más personas, con ejemplos reales, explicados en videos y con código que puedes probar al instante. Creemos que el aprendizaje debe ser transparente, accesible y útil.
 
-## *The Interstellar Lesson:*
+---
 
-The film's portrayal of human-AI collaboration offers valuable insights for real-world applications. As we increasingly rely on AI to augment our capabilities, we must prioritize synchronization and trust between humans and machines. By doing so, we can unlock new possibilities for innovation and progress.
+## 📬 ¿Quién soy?
 
-## *Applications of Human-AI Collaboration:*
+Soy **Fernando Martínez Marco**, lingüista computacional y entusiasta de los modelos generativos. Desde hace años trabajo en el cruce entre lenguaje, tecnología y docencia.
 
-The principles demonstrated in Interstellar have far-reaching implications for various fields, including:
+📧 fmmarco29@hotmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/fernandomartinezmarco/)  
+📺 [YouTube](https://www.youtube.com/@fernandomartinezmarco)
 
-- *Space Exploration:* AI-assisted navigation and decision-making can be crucial for future space missions.
-- *Medicine:* Human-AI collaboration can lead to more accurate diagnoses and effective treatments.
-- *Manufacturing:* AI-powered robots can work alongside humans to improve efficiency and productivity.
+---
 
-## *The Future of Human-AI Collaboration:*
-
-As we continue to push the boundaries of human-AI collaboration, we must prioritize the development of systems that foster trust, transparency, and real-time decision-making. By embracing the lessons of Interstellar, we can create a future where humans and AI work together in perfect sync, achieving greatness and overcoming challenges that once seemed insurmountable.
-
-## *Conclusión:*
-
-The scene from Interstellar serves as a powerful reminder of the potential for human-AI collaboration. By embracing the principles of synchronization, trust, and real-time decision-making, we can unlock new possibilities for innovation and progress. As we look to the future, let us draw inspiration from Cooper and TARS's remarkable achievement and strive to create a world where humans and AI work together in perfect harmony.
-
-*Imagen de portada:* Una imagen de la escena de acoplamiento de la película Interstellar sería ideal para esta entrada de blog.
-
-*Palabras clave:* Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
-
+Gracias por tu interés 🙌

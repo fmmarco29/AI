@@ -1,0 +1,99 @@
+/* Tipografía y estructura base */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+}
+
+.main-content, .post-content, .page-content, .container-lg, .markdown-body {
+  text-align: justify;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+  font-weight: 600;
+  text-align: left;
+}
+
+/* Párrafos */
+p {
+  margin-bottom: 1em;
+}
+
+/* Enlaces */
+a {
+  color: #1abc9c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Citas */
+blockquote {
+  border-left: 4px solid #dfe2e5;
+  background: #f6f8fa;
+  padding: 0.6em 1em;
+  color: #6a737d;
+  border-radius: 6px;
+  font-style: italic;
+}
+
+/* Botones */
+.button, .btn {
+  background-color: #1abc9c;
+  color: white;
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 1em;
+  transition: background-color 0.3s;
+}
+.button:hover, .btn:hover {
+  background-color: #159c82;
+}
+
+/* Tabla de contenido opcional */
+.toc {
+  background: #f9f9f9;
+  border-left: 4px solid #1abc9c;
+  padding: 1em;
+  border-radius: 8px;
+  margin: 2em 0;
+}
+
+.toc ul {
+  padding-left: 1.2em;
+  list-style: none;
+}
+
+.toc li::before {
+  content: "›";
+  color: #1abc9c;
+  margin-right: 6px;
+}
+
+/* Responsive para móviles */
+@media (max-width: 768px) {
+  body {
+    padding: 0 1em;
+  }
+
+  .main-content {
+    padding: 1em;
+  }
+
+  iframe {
+    width: 100% !important;
+    height: auto !important;
+  }
+}

@@ -1,17 +1,18 @@
 ---
 title: "AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
+interstellar: false
 ---
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
+<div class="centered-image">
+  <img src="assets/img/im1.jpeg" />
 </div>
 
-<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
-  <a href="/AI/about.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Sobre nosotros</a>
-  <a href="/AI/README.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">README</a>
-  <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Contacto</a>
+<div class="custom-navbar">
+  <a href="/AI/index.html">Inicio</a>
+  <a href="/AI/about.html">Sobre nosotros</a>
+  <a href="/AI/README.html">README</a>
+  <a href="mailto:fmmarco29@hotmail.com">Contacto</a>
 </div>
 
 # 🎥 Proyectos de IA por Video
@@ -27,8 +28,6 @@ Una colección de notebooks educativos organizados por módulos de video.
 
 Puedes ver el video explicativo aquí:  
 [🔗 Ver en YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
-
-O directamente aquí abajo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-1gu0EI_-o" frameborder="0" allowfullscreen></iframe>
 
@@ -47,18 +46,18 @@ O directamente aquí abajo:
 - [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
+
 ## 🌐 Aplicación destacada: Traductor C1
 
-🚀 Prueba mi aplicación de traducción avanzada español → inglés, usando inteligencia artificial:
+🚀 Prueba mi app de traducción avanzada español → inglés:
 
 👉 [Ir a la app en Hugging Face](https://huggingface.co/spaces/fmcsihe2929/FernandoMartinezMarco_C1-Translator-ES-EN)
 
 ---
 
-🎯 Transformaciones gramaticales, comparaciones entre niveles B2 y C1, y uso de modelos de OpenAI, Anthropic y Meta. ¡Totalmente interactiva!
+🎯 Comparaciones B2 vs C1, transformaciones gramaticales, modelos de OpenAI, Meta, Anthropic.
 
 ---
 
-Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+Bienvenido/a a este sitio con recursos prácticos de inteligencia artificial.
 
----

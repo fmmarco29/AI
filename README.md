@@ -1,115 +1,50 @@
-<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
+---
+title: "README del Proyecto"
+layout: default
+interstellar: true
+---
+
+<div class="centered-image">
+  <img src="assets/img/im1.jpeg" />
 </div>
 
+<div class="custom-navbar">
+  <a href="/AI/index.html">Inicio</a>
+  <a href="/AI/about.html">Sobre nosotros</a>
+  <a href="/AI/README.html">README</a>
+  <a href="mailto:fmmarco29@hotmail.com">Contacto</a>
+</div>
 
-Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+# 🛰️ Bienvenido a AI Projects
 
----
+Inspirado por *Interstellar*, este repositorio recoge proyectos con LLMs, RAG, Gradio, Langchain y más.
 
-# AI Web Project
+## 🌌 Objetivo
 
-# 🤖 AI Projects by fmmarco29
+Explorar aplicaciones reales de modelos de lenguaje y recursos IA de código abierto, compartiendo código reproducible.
 
-## 📒 Notebooks / Tutoriales
+## 🚀 Herramientas Clave
 
-- 📦 [Deploy a Hugging Face Spaces](notebooks/deploy_hf.ipynb)  
-- 🛠 [Cómo construir un RAG](notebooks/rag_demo.ipynb)
+- OpenAI / Anthropic / Meta LLMs
+- Hugging Face Spaces
+- LangChain
+- ChromaDB
+- Gradio
 
-> Si prefieres una versión navegable, visita:  
-> 🌐 **https://fmmarco29.github.io/AI/**
+## 🌠 Próximas Fases
 
-## 🧰 Otros archivos
+- Añadir tests A/B entre modelos
+- Implementar interfaz multilenguaje
+- Dashboards con paneles comparativos
 
-- [`requirements.txt`](requirements.txt) — librerías necesarias.  
-- [`index.md`](index.md) — contenido del sitio Jekyll.  
+## 🎥 Qué hay aquí
 
-## 📬 Sobre mí
+Los notebooks siguen la serie de videos educativos para cada módulo de IA.
 
-Soy **fmmarco29**. Comparto herramientas y demostraciones útiles para IA en producción.  
-🔗 [GitHub](https://github.com/fmmarco29)
+## 📬 Contacto
 
----
-
-⚙️ Este proyecto está generado automáticamente con **Jekyll + GitHub Pages**
-
-
-## Descripción
-
-Este proyecto web utiliza inteligencia artificial para ofrecer asesoramiento técnico en el ámbito naval. A través de un sistema interactivo, los usuarios pueden recibir recomendaciones personalizadas basadas en las últimas tecnologías y avances en el sector.
-
-## Características
-
-* **Asesoramiento técnico en tiempo real**: Obtén respuestas instantáneas sobre temas técnicos en el ámbito naval.
-* **Interfaz de usuario amigable**: Diseñada para ser intuitiva y fácil de usar.
-* **Basado en inteligencia artificial**: La web utiliza modelos avanzados de IA para proporcionar respuestas precisas y relevantes.
-
-## Tecnologías utilizadas
-
-* **Frontend**: React, Tailwind CSS
-* **Backend**: Node.js, Express (o cualquier otro framework que estés utilizando)
-* **IA**: Modelos de lenguaje como GPT (o cualquier modelo de IA relevante para tu proyecto)
-* **Base de datos**: (si aplica, mencionar base de datos como MongoDB, PostgreSQL, etc.)
-
-## Instalación
-
-### Requisitos
-
-* Node.js
-* npm o yarn
-* (Otros requisitos como Python si la IA depende de ello)
-
-### Pasos para ejecutar el proyecto localmente
-
-1. **Clonar el repositorio**:
-
-   ```bash
-   git clone https://github.com/tu_usuario/AI-web.git
-   cd AI-web
-   ```
-
-2. **Instalar dependencias**:
-
-   ```bash
-   npm install
-   # o si usas yarn
-   yarn install
-   ```
-
-3. **Configurar variables de entorno** (si es necesario):
-
-   Crea un archivo `.env` en la raíz del proyecto con las siguientes variables (ajusta los valores según sea necesario):
-
-   ```
-   REACT_APP_API_KEY=tu_api_key
-   DATABASE_URL=tu_url_de_base_de_datos
-   ```
-
-4. **Ejecutar el proyecto**:
-
-   ```bash
-   npm run dev
-   # o si usas yarn
-   yarn dev
-   ```
-
-5. La web estará disponible en [http://localhost:3000](http://localhost:3000).
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
-
-1. Forkea el repositorio
-2. Crea una nueva rama (`git checkout -b nueva-rama`)
-3. Realiza tus cambios
-4. Haz un commit de tus cambios (`git commit -am 'Agrega nueva funcionalidad'`)
-5. Empuja tus cambios a tu repositorio (`git push origin nueva-rama`)
-6. Crea un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Fernando Martínez Marco  
+📧 fmmarco29@hotmail.com  
+🔗 [YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
 
 ---
-
-Este es solo un ejemplo que puedes personalizar según los detalles específicos de tu proyecto. Si puedes proporcionar más información acerca de las características y tecnología de tu web, podré ajustarlo aún más a tus necesidades.
