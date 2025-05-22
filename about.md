@@ -3,12 +3,12 @@ title: "Brains Behind the Code: Why We Need AI"
 layout: default
 ---
 
-<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
 </div>
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
+<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
+  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
 </div>
 
 
