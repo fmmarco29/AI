@@ -1,5 +1,6 @@
+
 ---
-title: Brains Behind the Code: Why We Need AI
+title: "Brains Behind the Code: Why We Need AI"
 layout: default
 ---
 
@@ -11,7 +12,7 @@ layout: default
   <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
 </div>
 
-<div style="text-align: justify>
+<div style="text-align: justify;>
 
 # "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
