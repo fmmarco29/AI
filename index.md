@@ -47,7 +47,6 @@ O directamente aquí abajo:
 - [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
-
 ## 🌐 Aplicación destacada: Traductor C1
 
 🚀 Prueba mi aplicación de traducción avanzada español → inglés, usando inteligencia artificial:
@@ -61,3 +60,5 @@ O directamente aquí abajo:
 ---
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+
+---
