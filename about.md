@@ -13,7 +13,7 @@ layout: default
 
 <div style="text-align: justify>
 
-## "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
+# "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
 ## *Introducción:*
 
