@@ -57,5 +57,5 @@ layout: default
 
 <br>
 
-**Imagen de portada:** Una imagen de la escena de acoplamiento de la película Interstellar sería ideal para esta entrada de blog.  
-**Palabras clave:** Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
+ 
+**Keywords:** Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
