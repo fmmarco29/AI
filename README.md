@@ -5,13 +5,6 @@
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/foto_cooper.jpg" style="max-width: 40%;" />
-</div>
-
-=======
-
-
 ---
 
 # AI Web Project
