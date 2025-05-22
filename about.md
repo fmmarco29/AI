@@ -1,4 +1,3 @@
-
 ---
 title: "Brains Behind the Code: Why We Need AI"
 layout: default
