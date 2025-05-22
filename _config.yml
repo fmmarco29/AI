@@ -1,10 +1,7 @@
-# Archivo: _config.yml
-
 title: AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face
-description: Proyectos educativos en inteligencia artificial por video, con notebooks interactivos.
 theme: jekyll-theme-cayman
 
-# Enlazar CSS personalizado
+# Enlace al CSS personalizado
 defaults:
   - scope:
       path: ""
