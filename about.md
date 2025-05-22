@@ -1,5 +1,5 @@
 ---
-title: Sobre nosotros
+title: About
 layout: default
 ---
 
