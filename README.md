@@ -1,50 +1,19 @@
 ---
-title: "README del Proyecto"
+title: "AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face"
 layout: default
-interstellar: true
 ---
 
-<div class="centered-image">
-  <img src="assets/img/im1.jpeg" />
+<div style="text-align: center; margin: 30px 0;">
+  <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
 </div>
 
-<div class="custom-navbar">
-  <a href="/AI/index.html">Inicio</a>
-  <a href="/AI/about.html">Sobre nosotros</a>
-  <a href="/AI/README.html">README</a>
-  <a href="mailto:fmmarco29@hotmail.com">Contacto</a>
+<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
+  <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
+  <a href="/AI/about.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Sobre nosotros</a>
+  <a href="/AI/README.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">README</a>
+  <a href="mailto:fmmarco29@hotmail.com" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Contacto</a>
 </div>
 
-# 🛰️ Bienvenido a AI Projects
+# 🎥 Proyectos de IA por Video
 
-Inspirado por *Interstellar*, este repositorio recoge proyectos con LLMs, RAG, Gradio, Langchain y más.
-
-## 🌌 Objetivo
-
-Explorar aplicaciones reales de modelos de lenguaje y recursos IA de código abierto, compartiendo código reproducible.
-
-## 🚀 Herramientas Clave
-
-- OpenAI / Anthropic / Meta LLMs
-- Hugging Face Spaces
-- LangChain
-- ChromaDB
-- Gradio
-
-## 🌠 Próximas Fases
-
-- Añadir tests A/B entre modelos
-- Implementar interfaz multilenguaje
-- Dashboards con paneles comparativos
-
-## 🎥 Qué hay aquí
-
-Los notebooks siguen la serie de videos educativos para cada módulo de IA.
-
-## 📬 Contacto
-
-Fernando Martínez Marco  
-📧 fmmarco29@hotmail.com  
-🔗 [YouTube](https://www.youtube.com/watch?v=t-1gu0EI_-o)
-
----
+[Contenido idéntico al `index.md`, como tú lo tenías originalmente…]

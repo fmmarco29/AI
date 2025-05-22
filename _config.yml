@@ -1,18 +1,14 @@
-title: AI Projects by fmmarco29
-description: 
+# Archivo: _config.yml
+
+title: AI Projects con LLMs, RAG, Gradio, Langchain, Chroma, Hugging Face
+description: Proyectos educativos en inteligencia artificial por video, con notebooks interactivos.
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
 
-author: fmmarco29
-markdown: kramdown
-
-# Navegación personalizada
-nav:
-  - title: Inicio
-    url: /
-  - title: Sobre mí
-    url: /about
-
+# Enlazar CSS personalizado
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/custom.css"
