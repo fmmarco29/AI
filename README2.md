@@ -1,4 +1,4 @@
-<div style="background-color: white; padding: 12px 0; text-align: justify; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
+<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
   <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
 </div>
 
