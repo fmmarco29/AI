@@ -46,6 +46,11 @@ O directamente aquí abajo:
 - [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
+
+[¡Visita mi perfil de Hugging Face!](https://huggingface.co/fmcsihe2929)
+
+---
+
 ## 🌐 Aplicación destacada: Traductor C1
 
 🚀 Prueba mi aplicación de traducción avanzada español → inglés, usando inteligencia artificial:
