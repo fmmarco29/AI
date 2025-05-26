@@ -11,15 +11,6 @@ layout: default
   <a href="/AI/index.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Inicio</a>
 </div>
 
-## Índice
-
-- [Introducción](#introducción)
-- [The Art of Synchronization](#the-art-of-synchronization)
-- [The Interstellar Lesson](#the-interstellar-lesson)
-- [Applications of Human-AI Collaboration](#applications-of-human-ai-collaboration)
-- [The Future of Human-AI Collaboration](#the-future-of-human-ai-collaboration)
-- [Conclusión](#conclusión)
-
 # "Syncing Up: The Interstellar Lesson for Human-AI Collaboration"
 
 ## Introducción:
@@ -66,4 +57,5 @@ layout: default
 
 <br>
 
+ 
 **Keywords:** Human-AI collaboration, synchronization, Interstellar, trust, real-time decision-making.
