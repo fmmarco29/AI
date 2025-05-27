@@ -45,6 +45,16 @@ layout: default
     margin: 20px 0;
   }
 
+  /* Imagen centrada con borde redondeado */
+  .img-container {
+    text-align: center;
+    margin: 30px 0;
+  }
+  .img-container img {
+    max-width: 40%;
+    border-radius: 8px;
+  }
+
   /* Responsividad: que los botones ocupen ancho completo en móviles */
   @media (max-width: 768px) {
     .btn {
@@ -60,8 +70,8 @@ layout: default
   }
 </style>
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
+<div class="img-container">
+  <img src="assets/img/im1.jpeg" />
 </div>
 
 <div class="btn-container">
