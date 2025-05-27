@@ -6,7 +6,6 @@ layout: default
 <style>
   /* Estilo general para botones */
   .btn {
-    display: inline-block;
     background-color: #1abc9c;
     color: white;
     padding: 6px 12px;
@@ -15,8 +14,8 @@ layout: default
     font-weight: bold;
     transition: background-color 0.3s;
     cursor: pointer;
-    margin: 5px 10px 5px 0;
-    white-space: nowrap;
+    flex: 1 1 auto;
+    text-align: center;
   }
 
   .btn:active {
@@ -31,7 +30,6 @@ layout: default
     font-size: 16px;
     border-bottom: 1px solid #e0e0e0;
     display: flex;
-    flex-wrap: wrap;
     gap: 10px;
     justify-content: flex-start;
   }
@@ -40,9 +38,9 @@ layout: default
   .video-buttons {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
     gap: 6px;
     margin: 20px 0;
+    width: 100%;
   }
 
   /* Imagen centrada con borde redondeado */
@@ -55,14 +53,8 @@ layout: default
     border-radius: 8px;
   }
 
-  /* Responsividad: que los botones ocupen ancho completo en móviles */
+  /* Responsividad: los botones ocupan ancho completo y alineados uniformemente */
   @media (max-width: 768px) {
-    .btn {
-      display: block;
-      width: 100%;
-      text-align: center;
-      margin: 5px 0;
-    }
     .btn-container {
       flex-direction: column;
       align-items: stretch;
