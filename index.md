@@ -22,6 +22,34 @@ Una colección de notebooks educativos organizados por módulos de video.
 ### 📹 Video 01
 - [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
+Of course! Here’s a more comprehensive and polished text in English at a C1 level, suitable for your GitHub README or a webpage:
+
+---
+
+## 🌌 Embedding Evolution in 3D
+
+Dive into this captivating **3D animation** that illustrates the evolution of word embeddings across multiple training epochs. This visualization provides a unique glimpse into how a machine learning model internalizes language data and progressively refines its representations over time.
+
+At the beginning of training, embeddings are randomly initialized and scattered throughout the 3D space. As the model iteratively learns and adjusts through backpropagation and optimization algorithms (such as stochastic gradient descent), these points gradually shift, eventually forming more coherent and meaningful structures. This process enables the model to capture intricate relationships between words, enhancing its ability to understand and generate human-like language.
+
+In this animation:
+
+✅ **Blue spheres** represent word embeddings at each step.
+✅ The animation smoothly transitions from an unorganized state to a more structured configuration, reflecting the power of representation learning.
+✅ A concise text panel on the left provides additional insights into the process and its significance.
+
+🔗 **Watch the video here:**
+👉 [embedding\_animation\_slow\_explanation.mp4](./embedding_animation_slow_explanation.mp4)
+
+This demonstration underscores how embeddings evolve into a more semantically rich and organized space, forming the backbone of modern natural language processing systems.
+
+Feel free to explore the video and observe how these representations come to life!
+
+---
+
+Let me know if you want to tweak it further! 🚀✨
+
+
 ## 🎬 Video interesante
 
 Puedes ver el video explicativo aquí:  
