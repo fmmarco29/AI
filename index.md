@@ -3,14 +3,71 @@ title: "Fernando Martinez Marco - AI Proyectos con LLMs, RAG, Langchain, Gradio,
 layout: default
 ---
 
-<div style="text-align: center; margin: 30px 0;">
+<style>
+  /* Estilo general para botones */
+  .btn {
+    display: inline-block;
+    background-color: #1abc9c;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    margin: 5px 10px 5px 0;
+    white-space: nowrap;
+  }
+
+  .btn:active {
+    background-color: #16a085;
+  }
+
+  /* Contenedor de botones del menú */
+  .btn-container {
+    background-color: #ffffff;
+    padding: 12px 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+  }
+
+  /* Contenedor de botones de los videos */
+  .video-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    margin: 20px 0;
+  }
+
+  /* Responsividad: que los botones ocupen ancho completo en móviles */
+  @media (max-width: 768px) {
+    .btn {
+      display: block;
+      width: 100%;
+      text-align: center;
+      margin: 5px 0;
+    }
+    .btn-container {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>
+
+<div style="text-align: left; margin: 30px 0;">
   <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
 </div>
 
-<div style="background-color: #ffffff; padding: 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0; display: flex; gap: 10px;">
-  <a href="/AI/README.html" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">README</a>
-  <a href="/AI/about.html" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">Sobre nosotros</a>
-  <a href="mailto:fmmarco29@hotmail.com" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">Contacto</a>
+<div class="btn-container">
+  <a href="/AI/README.html" class="btn">README</a>
+  <a href="/AI/about.html" class="btn">Sobre nosotros</a>
+  <a href="mailto:fmmarco29@hotmail.com" class="btn">Contacto</a>
 </div>
 
 # 🎥 Proyectos de IA por Video
@@ -19,11 +76,11 @@ Una colección de notebooks educativos organizados por módulos de video.
 
 ## Notebooks disponibles
 
-<div style="margin: 20px 0; display: flex; flex-direction: column; align-items: flex-start; gap: 6px;">
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 01: Gradio Chatbot</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 02: RAG con PDF o Web</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 03: Deploy a Hugging Face</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 04: Notebook 4</a>
+<div class="video-buttons">
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" class="btn">📹 Video 01: Gradio Chatbot</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" class="btn">📹 Video 02: RAG con PDF o Web</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" class="btn">📹 Video 03: Deploy a Hugging Face</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" class="btn">📹 Video 04: Notebook 4</a>
 </div>
 
 ---
