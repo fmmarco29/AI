@@ -46,6 +46,8 @@ This demonstration underscores how embeddings evolve into a more semantically ri
 
 Feel free to explore the video and observe how these representations come to life!
 
+<br>
+
 ---
 
 Let me know if you want to tweak it further! 🚀✨
