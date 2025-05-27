@@ -7,10 +7,10 @@ layout: default
   <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
 </div>
 
-<div style="background-color: white; padding: 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0; display: flex; gap: 20px;">
-  <a href="/AI/README.html" style="text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">README</a>
-  <a href="/AI/about.html" style="text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">Sobre nosotros</a>
-  <a href="mailto:fmmarco29@hotmail.com" style="text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">Contacto</a>
+<div style="background-color: #ffffff; padding: 12px 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0; display: flex; gap: 10px;">
+  <a href="/AI/README.html" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">README</a>
+  <a href="/AI/about.html" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">Sobre nosotros</a>
+  <a href="mailto:fmmarco29@hotmail.com" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">Contacto</a>
 </div>
 
 # 🎥 Proyectos de IA por Video
@@ -19,11 +19,11 @@ Una colección de notebooks educativos organizados por módulos de video.
 
 ## Notebooks disponibles
 
-<div style="margin: 20px 0; display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="margin: 6px 0; text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">📹 Video 01: Gradio Chatbot</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="margin: 6px 0; text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">📹 Video 02: RAG con PDF o Web</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="margin: 6px 0; text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">📹 Video 03: Deploy a Hugging Face</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="margin: 6px 0; text-decoration: none; color: #1abc9c; font-weight: 600; transition: color 0.3s;" onmousedown="this.style.color='#16a085';" onmouseup="this.style.color='#1abc9c';">📹 Video 04: Notebook 4</a>
+<div style="margin: 20px 0; display: flex; flex-direction: column; align-items: flex-start; gap: 6px;">
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 01: Gradio Chatbot</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 02: RAG con PDF o Web</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 03: Deploy a Hugging Face</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="display: inline-block; background-color: #1abc9c; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#16a085';" onmouseup="this.style.backgroundColor='#1abc9c';">📹 Video 04: Notebook 4</a>
 </div>
 
 ---
@@ -48,8 +48,6 @@ In this animation:
 
 🔗 **Watch the video here:**  
 👉 [embedding\_animation\_slow\_explanation.mp4](./embedding_animation_slow_explanation.mp4)
-
-This demonstration underscores how embeddings evolve into a more semantically rich and organized space, forming the backbone of modern natural language processing systems.
 
 ---
 
