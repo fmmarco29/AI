@@ -27,12 +27,15 @@ Of course! Here’s a more comprehensive and polished text in English at a C1 le
 ---
 
 ## 🌌 Embedding Evolution in 3D
+
 <p style="text-align: justify;">
 <em>Dive into this captivating **3D animation** that illustrates the evolution of word embeddings across multiple training epochs. This visualization provides a unique glimpse into how a machine learning model internalizes language data and progressively refines its representations over time.<em>
 </p>
+
 <p style="text-align: justify;">
 <em>At the beginning of training, embeddings are randomly initialized and scattered throughout the 3D space. As the model iteratively learns and adjusts through backpropagation and optimization algorithms (such as stochastic gradient descent), these points gradually shift, eventually forming more coherent and meaningful structures. This process enables the model to capture intricate relationships between words, enhancing its ability to understand and generate human-like language.<em>
 </p>
+
 In this animation:
 
 ✅ **Blue spheres** represent word embeddings at each step.
