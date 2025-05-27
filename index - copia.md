@@ -38,25 +38,23 @@ Una colección de notebooks educativos organizados por módulos de video.
 
 In this animation:
 
-✅ **Blue spheres** represent word embeddings at each step.  
-✅ The animation smoothly transitions from an unorganized state to a more structured configuration, reflecting the power of representation learning.  
-✅ A concise text panel on the left provides additional insights into the process and its significance.  
+✅ **Blue spheres** represent word embeddings at each step.
+✅ The animation smoothly transitions from an unorganized state to a more structured configuration, reflecting the power of representation learning.
+✅ A concise text panel on the left provides additional insights into the process and its significance.
 
-🔗 **Watch the video here:**  
-👉 [embedding\_animation\_slow\_explanation.mp4](./embedding_animation_slow_explanation.mp4)  
+🔗 **Watch the video here:**
+👉 [embedding\_animation\_slow\_explanation.mp4](./embedding_animation_slow_explanation.mp4)
 
 This demonstration underscores how embeddings evolve into a more semantically rich and organized space, forming the backbone of modern natural language processing systems.
 
 Feel free to explore the video and observe how these representations come to life!
 
----
 
-<!-- 🔘 Nuevo botón al estilo existente -->
-<div style="background-color: white; padding: 12px 0; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; border-bottom: 1px solid #e0e0e0;">
-  <a href="/AI/Box.html" style="margin: 0 25px; text-decoration: none; color: #1abc9c;">Animaciones CSS Cheat Sheet</a>
-</div>
 
 ---
+
+Let me know if you want to tweak it further! 🚀✨
+
 
 ## 🎬 Video interesante
 
