@@ -22,8 +22,6 @@ Una colección de notebooks educativos organizados por módulos de video.
 ### 📹 Video 01
 - [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
 
-Of course! Here’s a more comprehensive and polished text in English at a C1 level, suitable for your GitHub README or a webpage:
-
 ---
 
 ## 🌌 Embedding Evolution in 3D
