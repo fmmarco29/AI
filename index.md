@@ -21,16 +21,24 @@ layout: default
 
 ## Notebooks disponibles
 
-<div style="margin: 10px 0;">
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 01: Gradio Chatbot</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 02: RAG con PDF o Web</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 03: Deploy a Hugging Face</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 04</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 05</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 06</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 08</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 09</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 10</a>
+<div style="margin: 20px 0;">
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 01: Gradio Chatbot</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 02: RAG con PDF o Web</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 03: Deploy a Hugging Face</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 04</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 05</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 06</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 08</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 09</a>
+
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb" style="display: block; margin: 6px auto; background-color: #2ecc71; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: 600; width: 250px; text-align: center; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#27ae60';" onmouseup="this.style.backgroundColor='#2ecc71';">📹 Video 10</a>
 </div>
 
 ---
@@ -69,10 +77,6 @@ layout: default
 </p>
 
 ---
-
-<p style="text-align: justify;">
-  Let me know if you want to tweak it further! 🚀✨
-</p>
 
 ## 🎬 Video interesante
 
