@@ -36,6 +36,8 @@ Of course! Here’s a more comprehensive and polished text in English at a C1 le
 <em>At the beginning of training, embeddings are randomly initialized and scattered throughout the 3D space. As the model iteratively learns and adjusts through backpropagation and optimization algorithms (such as stochastic gradient descent), these points gradually shift, eventually forming more coherent and meaningful structures. This process enables the model to capture intricate relationships between words, enhancing its ability to understand and generate human-like language.</em>
 </p>
 
+<br>
+
 In this animation:
 
 ✅ **Blue spheres** represent word embeddings at each step.
@@ -49,7 +51,7 @@ This demonstration underscores how embeddings evolve into a more semantically ri
 
 Feel free to explore the video and observe how these representations come to life!
 
-<br>
+
 
 ---
 
