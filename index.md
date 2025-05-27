@@ -3,7 +3,7 @@ title: "Fernando Martinez Marco - AI Proyectos con LLMs, RAG, Langchain, Gradio,
 layout: default
 ---
 
-<div style="text-align: left; margin: 30px 0;">
+<div style="text-align: center; margin: 30px 0;">
   <img src="assets/img/im1.jpeg" style="max-width: 40%;" />
 </div>
 
