@@ -21,8 +21,17 @@ layout: default
 
 ## Notebooks disponibles
 
-### 📹 Video 01
-- [Gradio Chatbot](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb)
+<div style="margin: 10px 0;">
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 01: Gradio Chatbot</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 02: RAG con PDF o Web</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 03: Deploy a Hugging Face</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 04</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 05</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 06</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 08</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 09</a>
+  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb" style="display: inline-block; margin: 4px 4px; background-color: #3498db; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-weight: 600; transition: background-color 0.3s; cursor: pointer;" onmousedown="this.style.backgroundColor='#2980b9';" onmouseup="this.style.backgroundColor='#3498db';">📹 Video 10</a>
+</div>
 
 ---
 
@@ -73,20 +82,6 @@ layout: default
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-1gu0EI_-o" frameborder="0" allowfullscreen></iframe>
-
-### 📹 Video 02
-- [RAG con PDF o Web](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb)
-
-### 📹 Video 03
-- [Deploy a Hugging Face](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb)
-
-### 📹 Video 04–10
-- [Notebook 4](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb)
-- [Notebook 5](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook5.ipynb)
-- [Notebook 6](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook6.ipynb)
-- [Notebook 8](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook7.ipynb)
-- [Notebook 9](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_09/notebook8.ipynb)
-- [Notebook 10](https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_10/notebook9.ipynb)
 
 ---
 
