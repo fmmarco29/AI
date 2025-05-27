@@ -79,10 +79,15 @@ Una colección de notebooks educativos organizados por módulos de video.
 ## Notebooks disponibles
 
 <div class="video-buttons">
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" class="btn">📹 Video 01: Gradio Chatbot</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" class="btn">📹 Video 02: RAG con PDF o Web</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" class="btn">📹 Video 03: Deploy a Hugging Face</a>
-  <a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" class="btn">📹 Video 04: Notebook 4</a>
+	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" class="btn">📹 Video 01: Gradio Chatbot</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" class="btn">📹 Video 02: RAG con PDF o Web</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" class="btn">📹 Video 03: Deploy a Hugging Face</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_04/notebook4.ipynb" class="btn">📹 Video 04: Notebook 4</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_05/notebook4.ipynb" class="btn">📹 Video 05: Notebook 5</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_06/notebook4.ipynb" class="btn">📹 Video 06: Notebook 6</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_07/notebook4.ipynb" class="btn">📹 Video 07: Notebook 7</a>
+  	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_08/notebook4.ipynb" class="btn">📹 Video 08: Notebook 8</a>
+
 </div>
 
 ---
