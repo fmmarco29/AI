@@ -40,7 +40,7 @@ layout: default
     flex-direction: column;
     gap: 6px;
     margin: 20px 0;
-    width: 100%;
+    width: 50%;
   }
 
   /* Imagen centrada con borde redondeado */
@@ -79,6 +79,7 @@ Una colección de notebooks educativos organizados por módulos de video.
 ## Notebooks disponibles
 
 <div class="video-buttons">
+
 	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_01/video01_Gradio_chatbot.ipynb" class="btn">📹 Video 01: Gradio Chatbot</a>
   	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_02/RAG_con_PDF_o_Web.ipynb" class="btn">📹 Video 02: RAG con PDF o Web</a>
   	<a href="https://nbviewer.org/github/fmmarco29/AI/blob/main/Video_03/Deploy_Hugging.ipynb" class="btn">📹 Video 03: Deploy a Hugging Face</a>
