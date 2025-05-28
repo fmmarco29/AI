@@ -127,7 +127,10 @@ O directamente aquí abajo:
 
 ---
 
-[¡Visita mi perfil de Hugging Face!](https://huggingface.co/fmcsihe2929)
+[<img src="https://img.shields.io/badge/GitHub-my_AI_lab-181717?logo=github&logoColor=white" alt="GitHub" width="200"/>](https://github.com/fmmarco29)
+[<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Mart%C3%ADnez%20Marco-0A66C2?logo=linkedin&logoColor=blue" alt="LinkedIn" width="300"/>](https://www.linkedin.com/in/fernando-mart%C3%ADnez-marco-a8127328/)
+[<img src="https://img.shields.io/badge/HuggingFace-Spaces-FCC624?logo=huggingface&logoColor=black" alt="Hugging Face" width="200"/>](https://huggingface.co/fmcsihe2929)
+
 
 ---
 
@@ -142,5 +145,27 @@ O directamente aquí abajo:
 ---
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
+
+---
+
+<table cellpadding="2" cellspacing="2" border="0">
+  <tr>
+    <td style="padding-right:10px;">
+      <a href="https://www.linkedin.com/in/fernando-mart%C3%ADnez-marco-a8127328/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>
+    <td style="padding-right:10px;">
+      <a href="https://github.com/fmmarco29" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>
+    <td style="padding-right:10px;">
+      <a href="https://huggingface.co/fmcsihe2929" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>    
+  </tr>
+</table>
 
 ---
