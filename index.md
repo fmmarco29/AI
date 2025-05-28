@@ -72,8 +72,6 @@ layout: default
   <a href="mailto:fmmarco29@hotmail.com" class="btn">Contacto</a>
 </div>
 
----
-
 <table cellpadding="2" cellspacing="2" style="border:none;">
   <tr>
     <td style="padding-right:10px;">
@@ -93,8 +91,6 @@ layout: default
     </td>    
   </tr>
 </table>
-
----
 
 # 🎥 Proyectos de IA por Video
 
