@@ -74,7 +74,7 @@ layout: default
 
 ---
 
-<table cellpadding="2" cellspacing="2" border="0">
+<table cellpadding="2" cellspacing="2" style="border:none;">
   <tr>
     <td style="padding-right:10px;">
       <a href="https://www.linkedin.com/in/fernando-mart%C3%ADnez-marco-a8127328/" target="_blank">
