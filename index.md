@@ -72,6 +72,30 @@ layout: default
   <a href="mailto:fmmarco29@hotmail.com" class="btn">Contacto</a>
 </div>
 
+---
+
+<table cellpadding="2" cellspacing="2" border="0">
+  <tr>
+    <td style="padding-right:10px;">
+      <a href="https://www.linkedin.com/in/fernando-mart%C3%ADnez-marco-a8127328/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>
+    <td style="padding-right:10px;">
+      <a href="https://github.com/fmmarco29" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>
+    <td style="padding-right:10px;">
+      <a href="https://huggingface.co/fmcsihe2929" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="24" height="24" style="vertical-align:middle;">
+      </a>
+    </td>    
+  </tr>
+</table>
+
+---
+
 # 🎥 Proyectos de IA por Video
 
 Una colección de notebooks educativos organizados por módulos de video.
@@ -145,27 +169,5 @@ O directamente aquí abajo:
 ---
 
 Bienvenido/a a este repositorio donde comparto prototipos y recursos prácticos sobre inteligencia artificial. Este sitio acompaña una serie de notebooks orientados a la producción real.
-
----
-
-<table cellpadding="2" cellspacing="2" border="0">
-  <tr>
-    <td style="padding-right:10px;">
-      <a href="https://www.linkedin.com/in/fernando-mart%C3%ADnez-marco-a8127328/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="vertical-align:middle;">
-      </a>
-    </td>
-    <td style="padding-right:10px;">
-      <a href="https://github.com/fmmarco29" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle;">
-      </a>
-    </td>
-    <td style="padding-right:10px;">
-      <a href="https://huggingface.co/fmcsihe2929" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="24" height="24" style="vertical-align:middle;">
-      </a>
-    </td>    
-  </tr>
-</table>
 
 ---
